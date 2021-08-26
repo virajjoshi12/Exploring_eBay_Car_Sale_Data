@@ -48,4 +48,4 @@ The data dictionary provided with the data is as follows:
 
 - `lastSeenOnLine`: When the crawler saw this ad last online.
 
-The aim of this project is to clean the data and analyse the included used car listings. We shall now import the libraries we need and read the dataset into pandas.
+The aim of this project is to clean the data and analyse the included used car listings.
