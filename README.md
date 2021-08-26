@@ -1,7 +1,7 @@
 # Exploring_eBay_Car_Sale_Data
 This project shall work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
 
-The dataset was originally scraped and uploaded to Kaggle by user orgesleka. The original dataset isn't available on Kaggle anymore, but you can find it here.
+The dataset was originally scraped and uploaded to Kaggle by user [orgesleka](https://www.kaggle.com/orgesleka). The original dataset isn't available on Kaggle anymore, but you can find it [here](https://data.world/data-society/used-cars-data).
 
 One modification has been made from the original dataset:
 
